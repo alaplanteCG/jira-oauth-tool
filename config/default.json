@@ -1,0 +1,11 @@
+{
+    "Jira": {
+        "host": "",
+        "privateKey": "",
+        "consumerKey": "",
+        "verifierCode": "",
+        "requestToken": "",
+        "requestSecret": "",
+        "accessToken": ""
+    }
+}
